@@ -12,8 +12,7 @@ I'm currently learning Full Stack Development and actively working on various mi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivamvashist&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamvashist&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivamvashist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
