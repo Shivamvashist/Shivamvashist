@@ -4,17 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shivam  </h1>
 <p align="center">💻 Full Stack Developer | 🚀 Building cool Projects | 🌱 Always Learning</p>
 
----
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/shivamvashist" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ninja_vashist" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X / Twitter"/>
-  </a>
-</p>
 
 ---
 ## 💻 Tech Stack
@@ -77,8 +67,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivamvashist&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>
-</p>
-<p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamvashist&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
 
