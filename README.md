@@ -72,4 +72,7 @@
 </p>
 
 ---
+<p align="center">
+ <img src="https://count.getloli.com/get/@Shivamvashist?theme=rule34"/>
+</p>
 
